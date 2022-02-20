@@ -1,15 +1,14 @@
 
 ## Ezequiel Messore
-<img align="left" width="190" height="190" margin-right="150px" src="https://drive.google.com/uc?export=view&id=1Kn8aRAQbLZx9BejvZD2eK8kLhp8j9i5m"> Sou um desenvolvedor Android que ama novos desafios e não perde a oportunidade de aprender coisas novas, sou organizado, pontual e estou sempre disponível para o ajudar, procuro estar cercado de pessoas que extraem o melhor de mim, me ajudando a sempre desempenhar o meu máximo. Por isso, quero compartilhar com vocês um pouco do que sinto quando programo e retribuir com tudo o que sei.
+Sou um desenvolvedor Android que ama novos desafios e não perde a oportunidade de aprender coisas novas, sou organizado, pontual e estou sempre disponível para o ajudar, procuro estar cercado de pessoas que extraem o melhor de mim, me ajudando a sempre desempenhar o meu máximo. Por isso, quero compartilhar com vocês um pouco do que sinto quando programo e retribuir com tudo o que sei.
 
 <div>
 
-<div align ="center" >
+<div>
 
-<img height ="170em" align ="center" src = "https://github-readme-stats.vercel.app/api?username=EzequielMessore&show_icons=true&theme=synthwave"/> 
+<img height="170em" src = "https://github-readme-stats.vercel.app/api?username=EzequielMessore&show_icons=true&theme=synthwave"/> 
 
-
-<img height ="170em" align ="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielMessore&&layout=compact&hide=shell&theme=dark"/>
+<img height="170em" style="margin: 0 16px 0 90px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielMessore&&layout=compact&hide=shell&theme=dark"/>
 </div>
  
 <div style="display: inline_block"></div>
